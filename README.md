@@ -12,7 +12,6 @@ This is a solution to the [Article preview component challenge on Frontend Mento
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -26,12 +25,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot - Mobile](./screenshot-mobile.png)
+![Screenshot - Tablet](./screenshot-tablet.png)
+![Screenshot - Desktop](./screenshot-desktop.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/article-preview-component-O0y3eAJzdH](https://www.frontendmentor.io/solutions/article-preview-component-O0y3eAJzdH)
+- Live Site URL: [https://mateusrissodiblasio.github.io/article-preview-component/](https://mateusrissodiblasio.github.io/article-preview-component/)
 
 ## My process
 
@@ -40,18 +41,17 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Styling with javascript functions.
 
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Focus on screens sizing adjustments.
 
 ## Author
 
